@@ -1,2 +1,2 @@
-const great = () => "Hello";
-console.log(great());
+// const great = () => "Hello";
+// console.log(great());
